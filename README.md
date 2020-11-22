@@ -1,7 +1,7 @@
 # covid19
 Sebaran data corona virus indonesia
 
-![](https://raw.githubusercontent.com/kasmadi17/Simple-Covid-19-Flutter/master/screen.jpg)
+<img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="300" height="500" />
 
 # UI
 [abuanwar072](https://github.com/abuanwar072/Covid-19-Flutter-UI)
