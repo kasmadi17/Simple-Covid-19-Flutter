@@ -15,7 +15,6 @@ class Repository {
         for( Map i in resString){
           return CaseModel.fromJson(i);
         }
-
       } else {
         throw Exception('Failed');
       }
